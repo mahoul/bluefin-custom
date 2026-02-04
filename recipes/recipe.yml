@@ -25,9 +25,9 @@ modules:
         - atim/starship
     install:
       packages:
-        - micro
+#        - micro
         - starship
-        - gopass
+#        - gopass
         - age
         - chezmoi
     remove:
